@@ -4,6 +4,9 @@ license = "MIT OR Apache-2.0"
 version = "0.1.0"
 authors = ["Yibo Zhuang <yibzhuang@gmail.com>"]
 edition = "2018"
+description = "Simple implementation of minigrep for playing with Rust"
+readme = "README.md"
+repository = "https://github.com/yibozhuang/minigrep-rust"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
